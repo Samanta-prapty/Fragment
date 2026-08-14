@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name ="bluegreen">#0096c7</color>
+    <color name ="frenchvlue">#03045e</color>
+    <color name ="TurquoiseSurf">#00b4d87</color>
+    <color name ="brighttealblue">0077b67</color>
 </resources>
